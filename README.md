@@ -1,10 +1,1 @@
 The objective of my research is to build intelligent agents that discover and learn how to behave in the environment by interacting with it.
-
-|  Repository  |  Paper   |
-| :-- | :-- |
-| [genrl](https://github.com/mazpie/genrl) ![](https://img.shields.io/github/stars/mazpie/genrl) | GenRL: Multimodal foundation world models for generalist embodied agents [[website](https://mazpie.github.io/genrl/)] [[arxiv](https://arxiv.org/abs/2406.18043)] |
-| [choreographer](https://github.com/mazpie/choreographer) ![](https://img.shields.io/github/stars/mazpie/choreographer) | Choreographer: Learning and Adapting Skills in Imagination [[website](https://skillchoreographer.github.io/)] [[arxiv](https://arxiv.org/abs/2211.13350)] |
-| [mastering-urlb](https://github.com/mazpie/mastering-urlb) ![](https://img.shields.io/github/stars/mazpie/mastering-urlb) | Mastering the Unsupervised Reinforcement Learning Benchmark from Pixels [[website](https://masteringurlb.github.io/)] [[arxiv](https://arxiv.org/abs/2209.12016)] |
-| [redundancy-action-spaces](https://github.com/mazpie/redundancy-action-spaces) ![](https://img.shields.io/github/stars/mazpie/redundancy-action-spaces) | Redundancy-aware Action Spaces for Robot Learning [[website](https://redundancy-actions.github.io/)] [[arxiv](https://arxiv.org/abs/2406.04144)] |
-| [contrastive-aif](https://github.com/mazpie/contrastive-aif) ![](https://img.shields.io/github/stars/mazpie/contrastive-aif) | Contrastive Active Inference [[website](https://contrastive-aif.github.io/)] [[arxiv](https://arxiv.org/abs/2110.10083)] |
-| [lbs-exploration](https://github.com/mazpie/lbs-exploration) ![](https://img.shields.io/github/stars/mazpie/lbs-exploration) | Curiosity-Driven Exploration via Latent Bayesian Surprise [[website](https://lbsexploration.github.io/)] [[arxiv](https://arxiv.org/abs/2104.07495)] |
